@@ -8,7 +8,7 @@ Enviar para o Registry - docker push nagixti/zabbix-proxy:v1.0
 
 Adicionar TAG à imagem - docker tag nagixti/zabbix-proxy:v1.0 docker.io/nagixti/zabbi-proxy
 
-
+Baixar a imagem: docker pull nagixti/zabbix-proxy:v1.0
 
 -----
 
