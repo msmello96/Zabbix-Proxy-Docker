@@ -18,5 +18,9 @@ wget https://raw.githubusercontent.com/msmello96/Docker/refs/heads/main/Proxy/pr
 
 chmod +x /tmp/proxy-install.sh
 
+mkdir /var/opt/zabbix
+
+echo 114db417461b96a676f8f1ac372370cc8e7300a552cd27aeed89761368d3755b > /var/opt/zabbix/.zabbix-key.psk
+
 Executar e preencher as informações solicitadas.
 
