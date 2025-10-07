@@ -16,5 +16,7 @@ Fazer o download do Script proxy-install.sh através do comando:
 
 wget https://raw.githubusercontent.com/msmello96/Docker/refs/heads/main/Proxy/proxy-install.sh
 
+chmod +x /tmp/proxy-install.sh
+
 Executar e preencher as informações solicitadas.
 
