@@ -22,8 +22,7 @@ mkdir /var/opt/zabbix
 
 echo 114db417461b96a676f8f1ac372370cc8e7300a552cd27aeed89761368d3755b > /var/opt/zabbix/.zabbix-key.psk
 
-echo "ZBX_SERVER_HOST=cmzabbix.gruponagix.com.br
-
+echo "ZBX_SERVER_HOST=cmzabbix.gruponagix.com.br \n
 ZBX_HOSTNAME=${PRX_HOSTNAME}
 
 ZBX_TLSCONNECT=psk
